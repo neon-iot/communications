@@ -1,22 +1,23 @@
 #  Tecnologías de comunicación para IoT (Communication Technologies for IoT) 
 ## About this course
-The course introduces the student to communication technologies of IoT, familiarizing them with current technologies for their implementation and going deeply into LoRaWAN and NB-IoT (incluing laboratories).
+The course introduces the student to communication technologies of IoT, familiarizing them with current technologies for their implementation and going deeply into LoRaWAN and NB-IoT (including laboratories).
 
 ## About this teaching material
-A first edition of this course was offer as continuing education, incluidng LoRaWAN laboratories only. This new editon adds NB-IoT communication and update the labs to lab-at-home metodology.  
+The first edition of this course was offered as continuing education, including LoRaWAN laboratories only. This new edition adds NB-IoT communication and updates the labs to lab-at-home methodology.  
+The course includes [lectures](slides/README.md), [laboratories](labs/README.md), and  final project. 
 
 ## Main topics
 * Introduction to IoT (Historical evolution, general architecture, study cases)
-* Hardware platforms (nodes, sensors and actuators)
-* Network and communication technologies: fundamentals and available technologies (such as 6LoWPAN, LoRa, NB-IoT, others).
+* Hardware platforms (nodes, sensors, and actuators)
+* Network and communication technologies: fundamentals and available technologies (such as 6LoWPAN, LoRa, NB-IoT, and others).
 * LoRa and LoRaWAN.
 * NB-IoT.
 * Application layer protocols (CoAP, MQTT).
 * Security aspects. 
 
 ## What you will learn
-* Challenges of communication tecnologies for IoT challenges.
-* Main tecnologies and hardware options available today.
+* Challenges of communication technologies for IoT challenges.
+* Main technologies and hardware options available today.
 * Main concepts and implmentation of a communication stack.
 * LoRaWAN and NB-IoT details.
 
@@ -44,3 +45,4 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+![logo_neon_erasmus](https://github.com/neon-iot/iotprogramming/blob/main/images/BannerSupportErasmus.png) 
