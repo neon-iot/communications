@@ -1,1 +1,11 @@
-# Slide decks files
+# Lectures (slides)
+
+* [T1 Introducción a IoT](T1-Introduccion.pdf)
+* [T2 Fundamentos de comunicaciones inalámbricas](T2-Fundamentos.pdf)
+* [T3 Tecnologías de Comunicación para IoT](T3-Tecnologias.pdf)
+* [T4 Plataformas de hardware](T4-Hardware.pdf)
+* [T5 LoRaWAN](T5-LoRaWAN.pdf)
+* [T6 CIoT (NB-IoT)](T6-NB-IoT.pdf)
+* [T7 Tecnologías-802.15.4](T7-Tecnologias-802.15.4.pdf)
+* [T8 Capa de aplicación (CoAP, MQTT)](T8-CoAP-MQTT.pdf)
+* [T9 Seguridad](T9-Seguridad.pdf)
