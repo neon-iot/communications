@@ -1,7 +1,7 @@
 #  Tecnologías de comunicación para IoT (Communication Technologies for IoT) 
 ## About this course
 The course introduces the student to communication technologies of IoT, familiarizing them with current technologies for their implementation and going deeply into LoRaWAN and NB-IoT (including laboratories).
-The course includes [lectures](slides/README.md), [laboratories](labs/README.md), and  final project. 
+The course includes [lectures](slides/README.md), [laboratories](labs/README.md), and a final project. 
 
 ## About this teaching material
 The first edition of this course was offered as continuing education, including LoRaWAN laboratories only. This new edition adds NB-IoT communication and updates the labs to lab-at-home methodology.  
@@ -20,7 +20,7 @@ More information, material, and active discussion forums can be found [here](htt
 ## What you will learn
 * Challenges of communication technologies for IoT challenges.
 * Main technologies and hardware options available today.
-* Main concepts and implmentation of a communication stack.
+* Main concepts and implementation of a communication stack.
 * LoRaWAN and NB-IoT details.
 
 ## What you will need:
@@ -28,7 +28,7 @@ More information, material, and active discussion forums can be found [here](htt
     - Language C programming
     - Digital electrónics.
     - Analog electrónics.
-    - Telecommunications basics .
+    - Telecommunications basics.
 * Hardware (kits)
    - [Arduino Zero](https://store-usa.arduino.cc/products/arduino-zero)
    - [LTE IoT 2 click](https://www.mikroe.com/lte-iot-2-click) BG96 based module by [MikroE](https://www.mikroe.com)
